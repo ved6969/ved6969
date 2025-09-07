@@ -1,1 +1,2 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=4500&pause=1000&color=FF5400&background=3F0A9E00&center=true&vCenter=true&multiline=true&width=550&height=100&lines=Hello%2C+I+am+Vedant+Jadhav;A+Computer+Science+engineering+student+at+PCU)](https://git.io/typing-svg)
+ Full-stack developer who loves bringing creative ideas to life with code
