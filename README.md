@@ -2,26 +2,26 @@
 <br>
  Full-stack developer who loves bringing creative ideas to life with code
  
- 🚀 My Toolkit
-Frontend: HTML, CSS, JavaScript, React
+  🚀 My Toolkit
+  -Frontend: HTML, CSS, JavaScript, React
 
-Backend: Node.js, Express, MongoDB
+  -Backend: Node.js, Express, MongoDB
 
-Languages: C++, Java, Python
+  -Languages: C++, Java, Python
 
-Tools: Git, GitHub, VS Code
+  -Tools: Git, GitHub, VS Code
 
 🌱 What I'm Learning Now
-I'm currently focused on sharpening my frontend development skills to build more dynamic and responsive user interfaces.
+   -I'm currently focused on sharpening my frontend development skills to build more dynamic and responsive user interfaces.
 
 🌟 My Interests
-Creating responsive and user-friendly websites
+   -Creating responsive and user-friendly websites
 
-Diving into modern web frameworks
+   -Diving into modern web frameworks
 
-Solving complex problems with elegant code
+   -Solving complex problems with elegant code
 
 📫 Let's Connect!
-Feel free to check out my projects and reach out for collaboration. I'm always open to new ideas and opportunities!
+   -Feel free to check out my projects and reach out for collaboration. I'm always open to new ideas and opportunities!
 
 
