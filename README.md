@@ -1,3 +1,1 @@
-# README.md
-profile
-hi my name is vedant jadhav
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5400&background=3F0A9E00&width=435&lines=+hello+%2C+i+am+Vedant++Jadhav+;full-stack+developer+who+loves+bringing;+creative+ideas+to+life+with+code" alt="Typing SVG" /></a>
